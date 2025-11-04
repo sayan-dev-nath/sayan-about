@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Sayan Dev Nath 👋</h1>
 
 <p align="center">
-  Passionate about <b>Competitive Programming</b>, <b>Android Development</b> & always eager to learn 🚀
+  Passionate about <b>Competitive Programming</b>, <b>Web Development</b>, & always eager to learn 🚀
 </p>
 
 ---
@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me  
 
 - 🌱 Currently learning **Competitive Programming (CP)**  
-- 🔭 Working on **CP, Android Development, and Web Development**  
-- 💬 Ask me about **C & C++**  
+- 🔭 Working on **CP and Web Development**  
+- 💬 Ask me about **C, C++ , Python & JavaScript**  
 - 📫 Reach me: **sayandevnath@hotmail.com**  
 - ⚡ Fun fact: *I debug faster at midnight than in the morning 🌙*  
 
